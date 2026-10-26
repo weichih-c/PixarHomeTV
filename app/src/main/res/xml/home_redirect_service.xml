@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Window changes only, and deliberately no flagRequestFilterKeyEvents: a key-filtering service makes this
+     firmware drop held-key repeats (volume stops ramping, cleanYourTV docs/devices/tcl-55p71b-g09-key-repeat.md). -->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:notificationTimeout="0"
+    android:description="@string/redirect_description" />

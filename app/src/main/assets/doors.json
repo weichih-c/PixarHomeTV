@@ -1,0 +1,47 @@
+{
+  "doors": [
+    {
+      "target": "com.google.android.youtube.tv",
+      "color": "#C9473C",
+      "style": "panels"
+    },
+    {
+      "target": "com.netflix.ninja",
+      "color": "#2E3A55",
+      "style": "porthole"
+    },
+    {
+      "target": "com.wbd.stream",
+      "color": "#5B3E8F",
+      "style": "arched"
+    },
+    {
+      "target": "hami.androidtv",
+      "color": "#4E9A4B",
+      "style": "dots"
+    },
+    {
+      "target": "com.spotify.tv.android",
+      "color": "#E0A23A",
+      "style": "stripes"
+    },
+    {
+      "target": "com.google.android.youtube.tvmusic",
+      "color": "#2F7F8C",
+      "style": "planks"
+    },
+    {
+      "target": "@settings",
+      "color": "#6E7480",
+      "style": "porthole"
+    },
+    {
+      "target": "@apps",
+      "color": "#9A6A44",
+      "style": "planks"
+    }
+  ],
+  "app_redirects": {
+    "com.amazon.amazonvideo.livingroom": "com.wbd.stream"
+  }
+}

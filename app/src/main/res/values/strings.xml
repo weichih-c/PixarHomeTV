@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Door Hall</string>
+    <string name="redirect_label">Door Hall Home</string>
+    <string name="redirect_description">Brings you back to the door hall when the TV opens its stock home screen.</string>
+    <string name="not_installed">%1$s 未安裝</string>
+    <string name="all_apps">所有應用程式</string>
+    <string name="settings">設定</string>
+</resources>

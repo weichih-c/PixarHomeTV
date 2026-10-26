@@ -1,0 +1,8 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+shots/
+# Character art from the films: for this TV only, never committed
+materials/
